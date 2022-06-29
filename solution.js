@@ -20,3 +20,7 @@ console.log(firstName, "is married:", isMarried);
 let programmingLanguage = "JavaScript";
 let isFun = true;
 console.log(programmingLanguage, "is fun:", isFun);
+
+console.log(programmingLanguage[(0, 4)]);
+
+console.log(programmingLanguage.length);
