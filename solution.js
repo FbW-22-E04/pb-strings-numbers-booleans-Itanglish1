@@ -6,7 +6,7 @@
 let string = "string";
 console.log(string);
 
-console.log(string[(1, 5)]);
+console.log(string[1], string[5]);
 
 let firstName = "Top";
 let age = 25;
@@ -21,6 +21,6 @@ let programmingLanguage = "JavaScript";
 let isFun = true;
 console.log(programmingLanguage, "is fun:", isFun);
 
-console.log(programmingLanguage[(0, 4)]);
+console.log(programmingLanguage[0], programmingLanguage[4]);
 
 console.log(programmingLanguage.length);
