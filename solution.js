@@ -3,10 +3,10 @@
 // let exercise = "This is the value.";
 // console.log(exercise)
 
-let string = "string";
-console.log(string);
+let str = "string";
+console.log(str);
 
-console.log(string[1], string[5]);
+console.log(str[1], str[5]);
 
 let firstName = "Top";
 let age = 25;
